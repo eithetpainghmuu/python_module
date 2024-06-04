@@ -23,6 +23,6 @@ result2 = df[df["Survived"]==1].groupby("Gender")["Survived"].count()
 print(result1)
 print(result2)
 #⑦
-print(df.groupby("Gender")['Age'].mean())
+#print(df.groupby("Gender")['Age'].mean())
 
 
