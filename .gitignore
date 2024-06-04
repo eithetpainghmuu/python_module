@@ -2,3 +2,7 @@ __pycache__/
 
 ## .env 大事なので　gitに上がらないように　cache file にいれます。
 ## .connect
+# example.xlsx
+# test.xlsx
+# python_excel.xlsx
+*.xlsx
